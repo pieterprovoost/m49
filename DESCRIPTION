@@ -1,0 +1,16 @@
+Package: m49
+Title: Data from UN M49 or the Standard Country or Area Codes for Statistical Use
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Pieter",
+           family = "Provoost",
+           role = c("aut", "cre"),
+           email = "pieterprovoost@gmail.com",
+           comment = c(ORCID = "0000-0002-4236-0384"))
+Description: Data from UN M49 or the Standard Country or Area Codes for Statistical Use (Series M, No. 49). M49 is a standard for area codes used by the United Nations for statistical purposes, developed and maintained by the United Nations Statistics Division.
+Imports:
+    dplyr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
